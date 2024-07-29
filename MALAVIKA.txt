@@ -1,0 +1,9 @@
+TASK 3 MALAVIKAMS
+
+COMMANDS
+TO CHANGE HOSTNAME
+ hostnameectl set-hostname malavika
+TO CHANGE USERNAME  WE NEED TO LOGIN TO ROOT
+ usermod -l cyber -d /home/kali/ -m kali
+TO CHANGE PASSWORD OF USENAME
+ passwd
